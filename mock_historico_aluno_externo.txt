@@ -1,0 +1,59 @@
+
+UNIVERSIDADE FEDERAL DO EXEMPLO (UFE)
+SISTEMA ACADÊMICO - EMISSÃO: 15/02/2026
+
+DADOS DO ALUNO:
+Nome: João da Silva Santos
+Curso: Engenharia Mecatrônica
+Matrícula: 2024.1.0054
+
+HISTÓRICO DE DISCIPLINAS CURSADAS:
+
+--- 1º SEMESTRE (2024.1) ---
+DISCIPLINA: Cálculo I
+NOTA: 7.5 | STATUS: APROVADO | CH: 60h
+(Ementa: Limites, derivadas e introdução à integral)
+
+DISCIPLINA: Física Teórica A
+NOTA: 6.0 | STATUS: APROVADO | CH: 60h
+(Ementa: Mecânica clássica e leis de Newton)
+
+DISCIPLINA: Laboratório de Física A
+NOTA: 8.0 | STATUS: APROVADO | CH: 30h
+
+DISCIPLINA: Introdução à Computação (Python)
+NOTA: 9.2 | STATUS: APROVADO | CH: 60h
+
+DISCIPLINA: Química para Engenharia
+NOTA: 5.5 | STATUS: APROVADO | CH: 60h
+
+--- 2º SEMESTRE (2024.2) ---
+DISCIPLINA: Cálculo II
+NOTA: 8.0 | STATUS: APROVADO | CH: 60h
+
+DISCIPLINA: Física Teórica B (Eletromagnetismo)
+NOTA: 4.5 | STATUS: REPROVADO | CH: 60h
+(Nota: O aluno reprovou nesta matéria, a IA NÃO deve dar equivalência)
+
+DISCIPLINA: Geometria Analítica
+NOTA: 7.0 | STATUS: APROVADO | CH: 60h
+
+DISCIPLINA: Expressão Gráfica e Modelagem 3D
+NOTA: 10.0 | STATUS: APROVADO | CH: 60h
+
+--- 3º SEMESTRE (2025.1) ---
+DISCIPLINA: Equações Diferenciais
+NOTA: 7.2 | STATUS: APROVADO | CH: 60h
+
+DISCIPLINA: Mecânica dos Sólidos
+NOTA: 8.5 | STATUS: APROVADO | CH: 80h
+
+DISCIPLINA: Algoritmos e Estruturas de Dados
+NOTA: 9.0 | STATUS: APROVADO | CH: 60h
+
+--- 4º SEMESTRE (2025.2) ---
+DISCIPLINA: Estatística Aplicada
+NOTA: 8.0 | STATUS: APROVADO | CH: 60h
+
+DISCIPLINA: Eletrotécnica Básica
+NOTA: 7.5 | STATUS: APROVADO | CH: 60h
